@@ -1,2 +1,6 @@
 adding d.txt 
 adding changes to find the diff
+
+learning
+branching
+
