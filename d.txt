@@ -1,8 +1,13 @@
 adding d.txt 
 
+adding changes to find the diff
+addign changes from UI
+
+
 
 learning
 learning braching again
 
 changing in master
 another try for merge with conflict
+
