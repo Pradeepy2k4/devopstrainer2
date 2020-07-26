@@ -1,2 +1,3 @@
 adding d.txt 
 adding changes to find the diff
+addign changes from UI
